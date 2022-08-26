@@ -1,0 +1,5 @@
+    Array in Numpy
+Array is a data structure in Numpy.
+Array in Numpy can hold collection of ordered elements.
+Array un Numpy can only hold data of same type.
+
