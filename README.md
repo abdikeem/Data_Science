@@ -2,7 +2,8 @@
 
 ## Data visualization and matplotlib
 ### Bar graphs
-
+<img src="./img/bar graph.jpg" alt="Graph bars" />
+<img src="./img/bar.jpg" alt="Graph bars" />
 ![Bar graphs](/home/elkimza/Documents/Learning/Data_Science/img/bar graph 2.png)
 ![Bar graphs](/home/elkimza/Documents/Learning/Data_Science/img/bar.jpg)
 
