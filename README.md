@@ -8,7 +8,7 @@
 ![Bar graphs](/home/elkimza/Documents/Learning/Data_Science/img/bar.jpg)
 
 ### heatmap
-![heatmap](/home/elkimza/Documents/Learning/Data_Science/img/heatmap.jpg)
+![heatmap](./img/heatmap.png)
 
 ### histogram
 ![histogram](/home/elkimza/Documents/Learning/Data_Science/img/histogram.png)
