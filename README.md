@@ -25,3 +25,5 @@
 ### swarmplot
 ![swarmplot](./img/swarmplot.png)
 
+### Pie chart
+![Pie chart](./img/pie%20chart.png)
