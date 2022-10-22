@@ -2,7 +2,6 @@
 
 ## Data visualization and matplotlib
 ### Bar graphs
-
 ![Bar graphs](./img/bar graph2.jpg)
 ![Bar graphs](./img/bar.jpg)
 
