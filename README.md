@@ -2,8 +2,8 @@
 
 ## Data visualization and matplotlib
 ### Bar graphs
-<img src="./img/bar graph.jpg" alt="Graph bars" />
-<img src="./img/bar.jpg" alt="Graph bars" />
+<img src="./img/bar graph.png" alt="Graph bars" />
+<img src="/home/elkimza/Documents/Learning/Data_Science/img/bar.png" alt="Graph bars" />
 ![Bar graphs](/home/elkimza/Documents/Learning/Data_Science/img/bar graph 2.png)
 ![Bar graphs](/home/elkimza/Documents/Learning/Data_Science/img/bar.jpg)
 
@@ -11,7 +11,7 @@
 ![heatmap](/home/elkimza/Documents/Learning/Data_Science/img/heatmap.jpg)
 
 ### histogram
-![histogram](/home/elkimza/Documents/Learning/Data_Science/img/histogram.jpg)
+![histogram](/home/elkimza/Documents/Learning/Data_Science/img/histogram.png)
 
 ### plots
 ![plots](/home/elkimza/Documents/Learning/Data_Science/img/plot.jpg)
