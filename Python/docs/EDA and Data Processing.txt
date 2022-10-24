@@ -1,0 +1,24 @@
+#main libraries
+import pandas as pd
+import numpy as np
+import time
+
+#visual libraries
+from matplotlib import pyplot as plt
+import seaborn as sns
+from mpl_toolkits.mplot3d import Axes3D
+plt.style.use('ggplot')
+
+#sklearn libraries
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model  import train_test_split
+from sklearn.preprocessing import normalize
+from sklearn.matrix import confusion_matrix,accuracy_score, precision_score, recall_score, f1_score,matthew_corrcoef,classification_report,roc_curve
+from sklearn.externals import joblib
+from sklearn.preprocessing import standardScaler
+from sklearn.decomposition import PCA
+
+#Replacing the missing values
+A common way to replace the missing values is using median.
+median = df['NUM_BEDROOMS'].median()
+df['NUM_BEDROOMS'].fillna(median,inplace=True))
